@@ -6,4 +6,8 @@
   <displayStatus>true</displayStatus>
   <commitMessagePattern>[message]</commitMessagePattern>
   <manualSynchronizationIncludes/>
+  <jobSynchronizationIncludes>
+    <jobInclude>yizhang_test</jobInclude>
+    <jobInclude>yizhang_test_sync_plugin</jobInclude>
+  </jobSynchronizationIncludes>
 </hudson.plugins.scm__sync__configuration.ScmSyncConfigurationPlugin>
