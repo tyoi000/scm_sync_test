@@ -8,6 +8,7 @@
   <manualSynchronizationIncludes/>
   <jobSynchronizationIncludes>
     <jobInclude>yizhang_test</jobInclude>
-    <jobInclude>yizhang_test_sync_plugin</jobInclude>
+    <jobInclude>converged_ci_spitfire_18a</jobInclude>
+    <jobInclude>sptifire_qa</jobInclude>
   </jobSynchronizationIncludes>
 </hudson.plugins.scm__sync__configuration.ScmSyncConfigurationPlugin>
