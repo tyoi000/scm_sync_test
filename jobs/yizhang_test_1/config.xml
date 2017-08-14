@@ -15,7 +15,10 @@
     <hudson.tasks.BatchFile>
       <command>echo &quot;another test wulalala&quot;&#xd;
 &#xd;
-would you like to try something more~~~</command>
+would you like to try something more~~~&#xd;
+wawahahahhahaha&#xd;
+&#xd;
+echo &quot;another test wulalala  -- end&quot;</command>
     </hudson.tasks.BatchFile>
   </builders>
   <publishers/>
