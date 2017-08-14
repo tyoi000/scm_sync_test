@@ -6,9 +6,5 @@
   <displayStatus>true</displayStatus>
   <commitMessagePattern>[message]</commitMessagePattern>
   <manualSynchronizationIncludes/>
-  <jobSynchronizationIncludes>
-    <jobInclude>yizhang_test</jobInclude>
-    <jobInclude>converged_ci_spitfire_18a</jobInclude>
-    <jobInclude>sptifire_qa</jobInclude>
-  </jobSynchronizationIncludes>
+  <jobSynchronizationIncludes>yizhang_test_sync_plugin#yizhang_test_1#converged_ci_spitfire_18a</jobSynchronizationIncludes>
 </hudson.plugins.scm__sync__configuration.ScmSyncConfigurationPlugin>
